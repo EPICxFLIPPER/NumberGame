@@ -1,2 +1,3 @@
-# LiftingStatTracker
-An application to keep track of my lifting progress
+# Number game
+A simple guess the number game
+
